@@ -4,9 +4,9 @@
 目前解题进度：  
 |  难度  | 解决数量 |
 |  :----:  | :----:  |
-|  简单  | 15 |
+|  简单  | 16 |
 |  中等  | 16 |
-|  困难  | 2  |
+|  困难  | 3  |
 
 
 ##  按照数字顺序对已解答题目进行排序：  
@@ -15,6 +15,7 @@
 - [ ] 18 [四数之和](https://leetcode-cn.com/problems/4sum)  
 - [ ] 19 [删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list)  
 - [ ] 21 [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists)  
+- [x] [***57***](https://github.com/Putinspudding/Leetcode/blob/master/57_InsertInterval.ipynb)  [插入区间](https://leetcode-cn.com/problems/insert-interval)  
 - [x] [***82***](https://github.com/Putinspudding/Leetcode/blob/master/82_RemoveDuplicatesfromSortedList%20.ipynb) [删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii)  
 - [ ] 94 [二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal)  
 - [ ] 112 [路径总和](https://leetcode-cn.com/problems/path-sum)  
@@ -42,4 +43,5 @@
 - [ ] 1103 [分糖果 II](https://leetcode-cn.com/problems/distribute-candies-to-people)  
 - [ ] 1108 [IP 地址无效化](https://leetcode-cn.com/problems/defanging-an-ip-address)  
 - [ ] 1276 [不浪费原料的汉堡制作方案](https://leetcode-cn.com/problems/number-of-burgers-with-no-waste-of-ingredients)  
+- [x] [***1313***](https://github.com/Putinspudding/Leetcode/blob/master/1313_DecompressRunLengthEncodedList.ipynb) [解压缩编码列表](https://leetcode-cn.com/problems/decompress-run-length-encoded-list)
 - [ ] 1329 [将矩阵按对角线排序](https://leetcode-cn.com/problems/sort-the-matrix-diagonally)  
