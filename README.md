@@ -4,8 +4,8 @@
 目前解题进度：  
 |  难度  | 解决数量 |
 |  :----:  | :----:  |
-|  简单  | 16 |
-|  中等  | 16 |
+|  简单  | 18 |
+|  中等  | 19 |
 |  困难  | 3  |
 
 
@@ -16,6 +16,7 @@
 - [ ] 19 [删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list)  
 - [ ] 21 [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists)  
 - [x] [***57***](https://github.com/Putinspudding/Leetcode/blob/master/57_InsertInterval.ipynb)  [插入区间](https://leetcode-cn.com/problems/insert-interval)  
+- [ ] 75 [颜色分类](https://leetcode-cn.com/problems/sort-colors/)
 - [x] [***82***](https://github.com/Putinspudding/Leetcode/blob/master/82_RemoveDuplicatesfromSortedList%20.ipynb) [删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii)  
 - [ ] 94 [二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal)  
 - [ ] 112 [路径总和](https://leetcode-cn.com/problems/path-sum)  
